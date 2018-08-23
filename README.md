@@ -1,4 +1,5 @@
 # Introdução
+O curso está baseado no trabalho feito por [KarlClinckspoor](https://github.com/KarlClinckspoor/CursoPython) modificado para ter um enfoque na engenharia elétrica e no *PSCAD*
 
 ## Objetivo
 Ensinar os princípios básicos de programação em Python para poder resolver diferentes tarefas usando esta limguagem de programação. 
