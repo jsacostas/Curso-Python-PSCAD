@@ -16,7 +16,7 @@ Ao final deste curso vocês poderão:
 * Rodar o *PSCAD* desde python e automatizar as simulações.
 * Mudar definitivamente para o *Python* kkkkk
 
-![SAXS](/imagens/PSCADAuto Lib1.jpg)
+![SAXS](https://hvdc.ca/uploads/ck/images/Auto%20Lib1.jpg)
 
 # Sobre a linguagem e as ferramentas
 
