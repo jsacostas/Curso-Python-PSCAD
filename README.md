@@ -52,17 +52,19 @@ Neste pacote de extensões é interessante habilitar *scratchpad* e *Variable In
 
 # Estrutura do curso
 
-1. 'Hello world', strings
-3. Operações matemáticas básicas, Variáveis
-2. Estruturas de dados. Listas, tuples, dicionários
+1. 'Hello world', tipos de dados e ajuda
+2. Operações matemáticas básicas, Variáveis
+3. Estruturas de dados. Listas, tuples, dicionários
 4. Loops e condicionais
-6. Instalação e uso de pacotes externos
 5. Funções. Definições e uso. Métodos internos
-8. Introdução a numpy
-9. Introdução a pandas
-10. Introdução a pyplot
-11. Ferramentas avançadas
+6. Instalação e uso de pacotes externos
+7. Introdução a numpy
+8. Introdução a pandas
+9. Introdução a pyplot
+10. Iteragindo com programas externos
+11. Lendo e escrivendo arquivos
 12. Python e PSCAD
+13. Classes e markdown
 
 # Recursos para aprendizado
 
