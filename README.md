@@ -27,7 +27,7 @@ A vantagem do pacote Anaconda é que ela vem com muitos pacotes científicos pr�
 
 Para testar se a instalação ocorreu corretamente:
 
-* Apertar CTRL+R e digitar *cmd*
+* Apertar Windows+R e digitar *cmd*
 * Digitar *cmd* na barra de endereço de uma janela do windows explorer.
 * Digite ```jupyter notebook```, que inicia o servidor dos notebooks (não feche a janela!) ou ```python```, que inicia o interpretador interativo, ou ```ipython```, que inicia o interpretador interativo melhorado.
 
